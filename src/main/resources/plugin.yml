@@ -1,0 +1,7 @@
+name: Angel
+main: io.gridmc.angel.Angel
+version: ${project.version}
+description: Angel Economy Plugin
+author: TechnicalBro
+api-version: 1.15
+depend: []
