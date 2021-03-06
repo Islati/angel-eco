@@ -31,3 +31,4 @@ _(If you're not using PostgreSQL the included SQL scripts will not execute)_
 Notes
 ---
 * Inside the `io.gric.mc.api.commands` package is a collection of classes used to create the intuitive command interface. This component was salvaged from _Commons_ (https://github.com/TechnicalBro/Commons)
+* _There is no support for Vault in the initial release (as it's a proof of concept.)_
